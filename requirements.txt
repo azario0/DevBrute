@@ -1,0 +1,4 @@
+proxyscrape==0.3.0
+pyvirtualdisplay==3.0
+Requests==2.31.0
+selenium==4.16.0
