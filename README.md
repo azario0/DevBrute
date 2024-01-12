@@ -63,7 +63,7 @@ python devbrute.py --target <target_IP> --port <port> --threads <num_threads> --
 - For Example:
 
 ```python
-python3 bruteforce.py -s facebook -u username -w wordlist.txt -d 2
+python3 devbrute.py -s facebook -u username -w wordlist.txt -d 2
 ```
 
 ### CONTRUBUTING TO DEVBRUTE
