@@ -35,7 +35,7 @@ python3 -m pip install -r requirements.txt
 3. Run DevBrute
 
 ```bash
-python3 bruteforce.py [options]
+python3 devbrute.py [options]
 ```
 
 Replace `[options]` with the desired configurations and parameters.
